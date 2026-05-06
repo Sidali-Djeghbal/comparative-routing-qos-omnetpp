@@ -66,3 +66,4 @@ Makefile*
 
 # debug information files
 *.dwo
+docs/
